@@ -33,4 +33,4 @@ You will also need a webcam connected to your computer.
 
 ## Credits
 
-This project was created by Ibrahim Nagdawala.
+This project was created by <a href="https://www.ibrahimnagdawala.xyz">Ibrahim Nagdawala</a>.
